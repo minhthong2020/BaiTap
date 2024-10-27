@@ -1,6 +1,3 @@
-bai4
-
-
 #Lấy ra tất cả các họa sĩ
 from selenium import webdriver
 from selenium.webdriver.common.by import By
